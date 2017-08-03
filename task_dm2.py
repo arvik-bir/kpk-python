@@ -9,6 +9,7 @@ def f(x):
 #    to_point(x, f(x))
 #pen_up()
 
+drawman_scale(40)
 x = -5.0
 to_point(x, f(x))
 pen_down()
